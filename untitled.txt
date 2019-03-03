@@ -1,0 +1,39 @@
+Fatura
+Cliente
+Data da fatura
+endereço de cobrança
+Cidade de cobrança
+Estado de faturamento
+País de faturamento
+Código postal de faturamento
+Total
+
+Linha de fatura
+Fatura
+Track
+Preço unitário
+Quantidade
+
+Cliente
+Primeiro nome
+Último nome
+Empresa
+Endereço
+Cidade
+Estado
+País
+Código postal
+telefone
+Fax
+O email
+Apoia o representante
+
+Track
+Nome
+Álbum
+Tipo de mídia
+Gênero
+Compositor
+Milissegundos
+Bytes
+Preço unitário
